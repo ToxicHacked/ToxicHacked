@@ -1,6 +1,6 @@
 # [Ans Ahmed Tariq](https://www.itsanss.cf)
 ***
-<a href="https://itsanss.cf"><p align="center"><img width="700px" alt="Ans" src="https://media.discordapp.net/attachments/977384933620322354/1034130971072659497/myportofolio.png?width=1025&height=430"/></p></a>
+<a href="https://itsanss.cf"><p align="center"><img width="700px" alt="Ans" src="https://media.discordapp.net/attachments/977384933620322354/1034130971072659497/myportofolio.png?width=1025&height=430"></p></a>
 
 ***
 
@@ -23,14 +23,13 @@ Hey! I am glad you found this. I am Ahad Noor and I introduce myself as a develo
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" width="50" height="50"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg" width="50" height="50"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" width="50" height="50"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/javascript.svg" width="50" height="50"/> 
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/heroku.svg" width="50" height="50"/>
 </p>
 
-After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world and I want you to join my little world aka my [Discord server](https://discord.gg/Ncsc5pRNgf).
+After spending too many hours on the screen (I am not an actor), I realized there's a world inside another world.
 
 ***
-<a href="https://itscruel.cf/"><p align="center"><img width="700px" alt="Ahad" src="https://media.discordapp.net/attachments/840846571326275609/995180079623700522/DEE8C6CD-F31C-4CB2-B852-EBF7FF8BF373.jpg"/></p></a>
+
 ***
 ## Stats
 ***
