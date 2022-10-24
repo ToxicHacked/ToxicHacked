@@ -52,7 +52,7 @@ After spending too many hours on the screen (I am not an actor), I realized ther
 
 ***
 ## Discord's Information:
-[![Discord Ahad]([https://lanyard.cnrad.dev/api/839253601293172787?theme=dark&bg=0D0D0D&animated=true&idleMessage=Prolly+sleeping)](https://discord.com/users/839253601293172787)
+[![Discord Ahad](https://lanyard.cnrad.dev/api/876887668733145089?theme=dark&bg=0D0D0D&animated=true&idleMessage=Cloning My Crush In Python.)](https://discord.com/users/876887668733145089)
 
 
 ```js
