@@ -1,6 +1,6 @@
 # [Ans Ahmed Tariq](https://www.itsanss.cf)
 ***
-<a href="https://itsanss.cf"><p align="center"><img width="700px" alt="Ans" src="https://media.discordapp.net/attachments/977384933620322354/1034130971072659497/myportofolio.png?width=1025&height=430"></p></a>
+<a href="https://itsanss.cf"><p align="center"><img width="700px" alt="Ans" src="https://media.discordapp.net/attachments/984151602208321606/1034133869319966730/myportofolio.png?width=1025&height=430"/></p></a>
 
 ***
 
